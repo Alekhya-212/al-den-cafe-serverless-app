@@ -1,0 +1,14 @@
+def lambda_handler(event, context):
+    menu_items = [
+        {"name": "Coffee Latte", "price": "₹120"},
+        {"name": "Espresso", "price": "₹100"},
+        {"name": "Green Tea", "price": "₹90"},
+        {"name": "Masala Chai", "price": "₹80"},
+        {"name": "Cold Brew", "price": "₹130"}
+    ]
+    
+    return {
+        "statusCode": 200,
+        "headers": {"Content-Type": "application/json"},
+        "body": json.dumps(menu_items)
+    }
