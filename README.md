@@ -1,3 +1,4 @@
+![Al-Den Café Banner](banner.png)
 # 🌸 Al-Den 🎸 Café – Serverless Web App
 
 A three-tier serverless café application built using AWS services: Lambda, API Gateway, S3, and VPC. Designed to simulate a dynamic menu experience with cost-efficiency and hands-on cloud architecture.
