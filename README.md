@@ -31,7 +31,3 @@ A three-tier serverless café application built using AWS services: Lambda, API 
 ## 🔗 Connect
 - [LinkedIn](https://www.linkedin.com/in/alekhya-somanaboyana)
 
-## 🔮 Future Enhancements
-- Add login/auth with Cognito
-- Store menu in DynamoDB
-- Add order tracking and payment gateway
